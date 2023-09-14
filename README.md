@@ -1,4 +1,6 @@
-# sefaz
+# SEFAZ
+
+
 APIs homomolagas pela Secrataria da fazenda para emissões de notas fiscais eletrônicas e classes obrigatorios em PHP, JS, NODE e VUE para ERP.
 Manutenção de API conforme normas técnicas SEFAZ ( [https://www.nfe.fazenda.gov.br/portal/principal.aspx](https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=)https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY= ) e mantido por Jerônimo Cavalcante Sampaio
 
